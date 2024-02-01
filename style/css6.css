@@ -1,0 +1,30 @@
+img{
+    max-width: 20%;
+    height: auto;
+}
+body{
+     background-image:url(../pictures/manchester skyline.jpg); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: gray;
+}
+p{
+    font-size: 20px;
+}
+ul{
+    padding: 10px 10px 10px 10px;
+    background: rgba(0,0,0,0.5);
+} 
+li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+a{
+    color: white;
+}
+body{
+    text-align: center;
+}
+h2{
+    text-decoration: underline;
+}
